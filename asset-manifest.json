@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/stellarportfolio.github.io/static/css/main.6dde3ccf.css",
+    "main.js": "/stellarportfolio.github.io/static/js/main.90261783.js",
+    "static/media/ec.png": "/stellarportfolio.github.io/static/media/ec.1029e745079acbe64cd6.png",
+    "static/media/seo.png": "/stellarportfolio.github.io/static/media/seo.28a72896d6ca24852a47.png",
+    "static/media/founder.JPEG": "/stellarportfolio.github.io/static/media/founder.eb49fe7c3c13ad1d60ab.JPEG",
+    "static/media/responsive.jpg": "/stellarportfolio.github.io/static/media/responsive.50e14af0488194e180a0.jpg",
+    "static/media/bl.jpg": "/stellarportfolio.github.io/static/media/bl.d0f38002e26d755768be.jpg",
+    "static/media/mk.jpg": "/stellarportfolio.github.io/static/media/mk.6fa3d283962630bd706e.jpg",
+    "static/media/app.jpg": "/stellarportfolio.github.io/static/media/app.a490f5e611b4b4b8c919.jpg",
+    "static/media/img1.svg": "/stellarportfolio.github.io/static/media/img1.a4e7c64fa86b311417c268bdfa389902.svg",
+    "index.html": "/stellarportfolio.github.io/index.html",
+    "main.6dde3ccf.css.map": "/stellarportfolio.github.io/static/css/main.6dde3ccf.css.map",
+    "main.90261783.js.map": "/stellarportfolio.github.io/static/js/main.90261783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dde3ccf.css",
+    "static/js/main.90261783.js"
+  ]
+}
